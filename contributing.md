@@ -4,10 +4,11 @@ Have interesting machine learning to showcase? Do you have working projects host
 
 If you have something awesome to contribute, this is how you do it.
 
-1. You'll need a [GitHub account](https://github.com/join)
-2. Fork the [awesome-machine-learning-projects](https://github.com/jinglescode/awesome-machine-learning-projects) repo
-3. Edit the [README.md](https://github.com/jinglescode/awesome-machine-learning-projects/blob/master/README.md) and add your entry, it should follow the [template](#template)
-4. Submit the pull request
+1. You'll need a [GitHub account](https://github.com/join).
+2. Fork the [awesome-machine-learning-projects](https://github.com/jinglescode/awesome-machine-learning-projects) repo.
+3. (if category doesn't exist) Add the new category in alphabetical order. Also add the link to the category headings. Please do not hesitate to [submit an issue](https://github.com/jinglescode/awesome-machine-learning-projects/issues) if you have any questions.
+4. Edit the [README.md](https://github.com/jinglescode/awesome-machine-learning-projects/blob/master/README.md) and add your entry, it should follow the [template](#template). Insert your entry at the last of the category.
+4. Submit the pull request.
 
 ## Template
 
